@@ -48,7 +48,9 @@ Tipe data ada banyak, diantaranya:
         <td>x = 1</td>
     </tr>
 </table>
-Note: y = 5
+
+> [!NOTE]
+> ```y = 5```
 
 ## Operator Pembanding
 <table>
@@ -96,7 +98,9 @@ Note: y = 5
         <td>x <= 8 hasilnya True</td>
     </tr>
 </table>
-Note: x = 5
+
+>[!NOTE]
+> ```x = 5```
 
 ## Operator Pemberi Nilai
 <table>
@@ -143,7 +147,10 @@ Note: x = 5
         <td>x = 0</td>
     </tr>
 </table>
-Note: x = 10, y = 5
+
+> [!NOTE]
+> ```x = 10```
+> ```y = 5```
 
 ## Operator Logika
 <table>
@@ -168,7 +175,10 @@ Note: x = 10, y = 5
         <td>!(x==y) hasilnya True</td>
     </tr>
 </table>
-Note: x = 10, y = 7
+
+> [!NOTE]
+> ```x = 10```
+> ```y = 7```
 
 ## Variabel
 Variabel adalah hasil pembacaan suatu tipe data yang disimpan. Untuk menyimpannya kita menggunakan Operator Pemberi Nilai "=". Untuk menghubungkan string ("" atau '') dengan variabel menggunakan ",". Jika ingin memberikan line baru, maka menggunakan \n. Variable yang bagus adalah menggunakan huruf kecil dan tidak boleh diawali dengan angka serta tidak boleh menggunakan spasi.
