@@ -181,7 +181,12 @@ Tipe data ada banyak, diantaranya:
 > ```y = 7```
 
 ## Variabel
-Variabel adalah hasil pembacaan suatu tipe data yang disimpan. Untuk menyimpannya kita menggunakan Operator Pemberi Nilai "=". Untuk menghubungkan string ("" atau '') dengan variabel menggunakan ",". Jika ingin memberikan line baru, maka menggunakan \n. Variable yang bagus adalah menggunakan huruf kecil dan tidak boleh diawali dengan angka serta tidak boleh menggunakan spasi.
+Variabel adalah hasil pembacaan suatu tipe data yang disimpan. Untuk menyimpannya kita menggunakan Operator Pemberi Nilai "=". Untuk menghubungkan string ```""``` atau ```''``` dengan variabel menggunakan ```,```. Jika ingin memberikan line baru, maka menggunakan ```\n``` dan jika ingin menggunakan ```tab``` maka gunakan ```\t```. Variable yang bagus adalah menggunakan huruf kecil dan tidak boleh diawali dengan angka serta tidak boleh menggunakan spasi. Penulisan variabe memiliki aturan-aturan seperti berikut:
+
+1. Karakter pertama harus berupa huruf atau _underscore_ ```_```
+2. Karakter selanjutnya dapat berupa huruf, _underscore_, atau angka
+3. Karakter pada nama variabel bersifat sensitif (_sensitive case_), artinya huruf kecil dan huruf besar dibedakan. Sebagai contoh, variabel ```namaDepan``` dan ```namadepan``` adalah variabel yang berbeda.
+
 ```python
 # Contoh
 nama = "nama"
