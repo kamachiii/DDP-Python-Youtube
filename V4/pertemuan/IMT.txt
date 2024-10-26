@@ -1,0 +1,16 @@
+Program ini menghitung Indeks Massa Tubuh (IMT) berdasarkan input berat badan dan tinggi badan pengguna,
+kemudian memberikan keterangan berdasarkan nilai IMT yang dihitung.
+Input:
+- Nama pengguna (string)
+- Berat badan pengguna dalam kilogram (float)
+- Tinggi badan pengguna dalam centimeter (float)
+Output:
+- Nama pengguna
+- Berat badan pengguna dalam kilogram
+- Tinggi badan pengguna dalam centimeter
+- Indeks Massa Tubuh (IMT) yang dihitung
+- Keterangan berdasarkan nilai IMT:
+    - "Tulang Lab IPA" jika IMT < 18.5
+    - "MC ANIMEK" jika 18.5 <= IMT < 25
+    - "VILLAIN" jika 25 <= IMT < 30
+    - "PEJABAT" jika IMT >= 30

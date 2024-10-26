@@ -1,0 +1,12 @@
+Program ini meminta pengguna untuk memasukkan sebuah angka, kemudian menentukan apakah angka tersebut adalah angka genap atau ganjil.
+Fungsi:
+- Meminta input angka dari pengguna.
+- Mengecek apakah angka tersebut genap atau ganjil.
+- Mencetak hasil pengecekan ke layar.
+Penggunaan:
+Jalankan program dan masukkan angka ketika diminta. Program akan mencetak apakah angka tersebut genap atau ganjil.
+Contoh:
+Masukkan angka: 4
+4 adalah Genap
+Masukkan angka: 5
+5 adalah Ganjil
